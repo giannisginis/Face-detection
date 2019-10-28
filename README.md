@@ -1,1 +1,1 @@
-# Face detection in video and webcam with OpenCV and deep learning
+# Face detection in video and image with OpenCV and deep learning
